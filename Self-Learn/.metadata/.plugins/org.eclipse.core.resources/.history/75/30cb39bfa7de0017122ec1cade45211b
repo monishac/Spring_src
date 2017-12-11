@@ -1,0 +1,39 @@
+package com.dp.constructor;
+
+public class Employee {
+	int id;
+	String name;
+	
+	public Employee()
+	{
+		System.out.print("No parameter");
+	}
+	
+	public Employee(int id)
+	{
+		this.id = id;
+	}
+
+	public Employee(int name)
+	{
+		this.name = name;
+	}
+	
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	public void displayAll() {
+		System.out.print("ID : "+ id);
+		System.out.print("NAME : "+ name);
+	}
+}

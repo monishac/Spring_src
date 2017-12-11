@@ -1,0 +1,8 @@
+package com.dp.constructor;
+
+public class Address {
+	String city;
+	String State;
+	String country;
+	
+}

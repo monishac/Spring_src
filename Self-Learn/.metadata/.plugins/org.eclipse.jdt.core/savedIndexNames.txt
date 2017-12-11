@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Spring\Self-Learn\.metadata\.plugins\org.eclipse.jdt.core
+4108919023.index
+2455148899.index

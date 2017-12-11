@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/spcorejars/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/aop.zip"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/core.zip"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/ibatis.zip"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/j2ee.zip"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/javaconfig.zip"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/misc.zip"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/persistCore.zip"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/persistJdbc.zip"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/persistJDO.zip"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/remoting.zip"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/test.zip"/>
+	<classpathentry kind="lib" path="C:/Self-Learn/Spring/Spring Jars/springjars/web.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

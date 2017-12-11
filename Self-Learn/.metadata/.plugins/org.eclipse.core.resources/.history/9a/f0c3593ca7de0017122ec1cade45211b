@@ -1,0 +1,7 @@
+package com.dp.constructor;
+
+public class Employee {
+	int id;
+	String name;
+	
+}

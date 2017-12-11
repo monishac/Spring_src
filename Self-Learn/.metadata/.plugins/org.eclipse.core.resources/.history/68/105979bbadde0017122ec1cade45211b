@@ -1,0 +1,46 @@
+package com.dp.constructor;
+
+import java.util.Iterator;
+import java.util.List;
+
+public class Employee {
+	private int id;
+	private String name;
+	private Address address;
+	private List<String> comments;
+
+	public Employee() {
+		System.out.print("No parameter");
+	}
+
+	public Employee(int id) {
+		this.id = id;
+	}
+
+	public Employee(String name) {
+		this.name = name;
+	}
+
+	public Employee(int id, String name, Address address, List<String> comments) {
+		this.id = id;
+		this.name = name;
+		this.address = address;
+		this.comments = comments;
+	}
+
+	public void displayAll() {
+		System.out.println("ID : " + id);
+		System.out.println("NAME : " + name);
+		
+		if (address != null)
+			System.out.println("ADDRESS : " + address.toString());
+		
+		if (comments != null) {
+			Iterator<String> itr = comments.iterator();
+			while (itr.hasNext()) {
+				System.out.println(itr.next());
+			}
+		}
+		System.out.println();
+	}
+}
